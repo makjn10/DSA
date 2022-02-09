@@ -1,2 +1,1 @@
-# LeetCodeSols
-Leetcode problems solutions
+# DSA
